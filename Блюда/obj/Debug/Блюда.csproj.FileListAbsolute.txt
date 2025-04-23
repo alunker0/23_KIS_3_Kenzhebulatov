@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Блюда\Блюда\bin\Debug\Блюда.exe.config
+C:\Users\admin\source\repos\Блюда\Блюда\bin\Debug\Блюда.exe
+C:\Users\admin\source\repos\Блюда\Блюда\bin\Debug\Блюда.pdb
+C:\Users\admin\source\repos\Блюда\Блюда\obj\Debug\Блюда.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Блюда\Блюда\obj\Debug\Блюда.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Блюда\Блюда\obj\Debug\Блюда.exe
+C:\Users\admin\source\repos\Блюда\Блюда\obj\Debug\Блюда.pdb
